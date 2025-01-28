@@ -15,5 +15,6 @@ The design to be recreated is shown below:
 - HTML5
 - CSS3
 
-##LIVE DEMO
-![Project Landing Page](https://jessamsaquin.github.io/TOP-Landing-Page/)
+Here’s the link to my project:
+
+[TOP Landing Page](https://jessamsaquin.github.io/TOP-Landing-Page/)
